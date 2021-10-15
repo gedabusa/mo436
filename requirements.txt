@@ -1,0 +1,12 @@
+tensorflow
+numpy
+pandas
+sklearn
+matplotlib
+seaborn
+jupyter
+pyyaml
+h5py
+keras
+opencv-python
+imutils
