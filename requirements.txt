@@ -10,3 +10,4 @@ h5py
 keras
 opencv-python
 imutils
+gym

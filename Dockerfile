@@ -8,7 +8,8 @@ WORKDIR /opt/app
 
 RUN apt-get update && apt-get install -y \
 	libopencv-dev \
-        python3-pip \
+    python3-pip \
+    xvfb \
 	python3-opencv && \
     rm -rf /var/lib/apt/lists/*
 
