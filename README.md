@@ -10,7 +10,6 @@ In order to run
 
 ```bash
 docker run -it -p 8888:8888 \
-    -p 8889:8889 \
     -p 6006:6006 \
     -d \
     -v $(pwd)/notebooks:/notebooks \
