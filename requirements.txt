@@ -11,3 +11,6 @@ keras
 opencv-python
 imutils
 gym
+pyvirtualdisplay
+box2d
+pyglet
